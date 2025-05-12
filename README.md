@@ -1,49 +1,26 @@
+<h1 align="center">Hi 👋, I'm Milion</h1>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-# 💻 **Welcome to My GitHub Profile!**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milion-mengistu" alt="milion-mengistu" /></a> </p>
 
-Hi! I’m a **Computer Science and Engineering (CSE) student** at **Adama Science and Technology University**, passionate about **web development**, **AI**, and problem-solving.  
+- 🔭 I’m currently working on [IR-search engine](https://github.com/Milion-Mengistu/IR-VSM-project)
 
-🌟 I enjoy **building full-stack projects**, **designing user interfaces**, and exploring creative solutions to challenges in software development.  
+- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
----
+- 💬 Ask me about **python , flask , react**
 
-## 🛠️ **My Skills**
-- **Programming Languages:** Python (favorite!), JavaScript, HTML, CSS  
-- **Web Development:**  
-  - Backend: Flask, working towards full-stack mastery  
-  - Frontend: UI/UX design and graphic design aspirations  
-- **Problem-Solving:**  
-  - LeetCode and Codeforces enthusiast  
-  - Proficient in Prefix Sum, Sliding Window, Two Pointer, and Binary Search  
-- **Other Tools:** Git, Visual Studio Code  
+- 📫 How to reach me **millionmengist6@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/miloomangee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miloomangee" height="30" width="40" /></a>
+</p>
 
-## 🚀 **My Projects**
-- **[Online Notebook](#)**:  
-  A full-stack application built using Flask to manage notes efficiently.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- Currently learning **advanced web development** and **AI integration** into projects.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milion-mengistu&show_icons=true&locale=en&layout=compact" alt="milion-mengistu" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milion-mengistu&show_icons=true&locale=en" alt="milion-mengistu" /></p>
 
-## 📚 **Certifications**
-- Completed **Fundamentals of Web Development** course under the 5 Million Coders Initiative.  
-
----
-
-## 🎯 **My Goals**
-- Become a **Full-Stack Developer**  
-- Excel in **UI/UX Design** and **Graphic Design**  
-- Gain expertise in **AI-driven applications**  
-
----
-
-## 📖 **Hobbies**
-- Reading the Bible and listening to gospel music.  
-- Exploring new coding challenges.  
-
----
-
-## 🤝 **Let's Connect**
-- **GitHub:** https://github.com/Milion-Mengistu
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milion-mengistu&" alt="milion-mengistu" /></p>
